@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "HELLO.C": "cpp",
+        "ABCDE.C": "cpp",
+        "AAAA.C": "cpp",
+        "1,01,010.C": "cpp",
+        "11,12,13,14,15.C": "cpp",
+        "A TO ABCDE.C": "cpp"
+    }
+}
