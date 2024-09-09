@@ -53,7 +53,7 @@ void coin(){
                 printf("%d\n",second);
                 printf("%d\n",first);
              
-              `}
+              }
        }
               
 }

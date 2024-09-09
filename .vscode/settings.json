@@ -1,3 +1,4 @@
+
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
@@ -7,6 +8,10 @@
         "AAAA.C": "cpp",
         "1,01,010.C": "cpp",
         "11,12,13,14,15.C": "cpp",
-        "A TO ABCDE.C": "cpp"
+        "A TO ABCDE.C": "cpp",
+        "A,b,c,D,E.C": "cpp",
+        "ctype.h": "c",
+        "A-Z.C": "cpp",
+        "A-Zw.C": "cpp"
     }
 }

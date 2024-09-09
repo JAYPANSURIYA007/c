@@ -21,6 +21,6 @@ int main(){
         netbill[i].gst=netbill[i].billamt*0.18;
         netbill[i].netbill=netbill[i].billamt+netbill[i].gst;
 
-  printf("%d\t%d\t%d\t%d\t%d\t%d\t%d\t",netbill[i].rate ,netbill[i].qty, netbill[i].amt ,netbill[i].dis ,netbill[i].billamt ,netbill[i].gst, netbill[i].netbill);
+  printf("%d\t%d\t%d\t%d\t%d\t%d\t%d\t",netbill[i].rate ,netbill[i].qty, netbill[i].amt ,netbill[i].dis ,netbill[i].billamt ,netbill[i].gst, netbill[i].netbill); 
     }
 }
