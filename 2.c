@@ -29,7 +29,8 @@ int main()
 	printf("total of upper triangel:%d\t",total1);}
 	else if (i>j)
 	printf("total of diagonal :%d\t",total2);
-    }else{
+    
+		else{
 	printf("total of upper triangel:%d\t",total3);
     
 	printf("\n");
